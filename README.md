@@ -31,7 +31,7 @@ Each sample has the following features:
 
 ## 📈 Libraries Used
 
-- Python (3.x)
+- Python
 - NumPy
 - Pandas
 - Matplotlib
